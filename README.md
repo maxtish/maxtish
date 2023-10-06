@@ -1,4 +1,4 @@
-<h1 align="center">Hallo, ich heiße Maxim. 🙌</h1>
+<h1 align="center">Hallo, ich heiße Maksim. 🙌</h1>
 <h3 align="center">Ich bin Frontend-Entwickler aus Kertsch.</h3>
 
 🎯 Meine Ziele sind:
