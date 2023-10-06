@@ -1,18 +1,18 @@
-<h1 align="center">Всем привет, меня зовут Максим 🙌</h1>
-<h3 align="center">Я Frontend разработчик из Керчи</h3>
+<h1 align="center">Hallo, ich heiße Maxim. 🙌</h1>
+<h3 align="center">Ich bin Frontend-Entwickler aus Kertsch.</h3>
 
-🎯 Мои цели:
+🎯 Meine Ziele sind:
 
-- 🧙‍♂️ Стать профессиональным фронтенд разработчиком,
-- 🏋️‍♀️ Прокачивать свои скиллы,
-- 📖 Учиться у лучших,
-- 🛠 Изучать новые фреймворки,
-- 🚀 Участвовать в разработке настоящих боевых проектов.
+- 🧙‍♂️ Ein professioneller Frontend-Entwickler werden,
+- 🏋️‍♀️ meine Fähigkeiten weiterentwickeln,
+- 📖 von den Besten lernen,
+- 🛠 neue Frameworks erforschen,
+- 🚀 an der Entwicklung echter Projekte teilnehmen.
 
-🖥 Мои проекты здесь [👉 проекты 👈](https://github.com/maxtish?tab=repositories)
+🖥 Meine Projekte sind hier [👉 Projekte 👈](https://github.com/maxtish?tab=repositories)
 
 <div>
-  <h3 align="left">Как со мной связаться?</h3>
+  <h3 align="left">Wie kann man mich erreichen?</h3>
   <p align="left">
   <a href="https://instagram.com/rd_maxim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rd-max" height="48" width="48" /></a>
     <a href="https://t.me/Rd_max_de" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="rd-max" height="48" width="48" /></a>
@@ -22,7 +22,7 @@
 </div>
 
 <div>
-      <h3 align="left">Мой стек:</h3>
+      <h3 align="left">Mein Stack:</h3>
       <p align="left">
         <a
           href="https://www.typescriptlang.org/"
@@ -56,7 +56,7 @@
     </div>
 
 <div>
-  <h3 align="left">Статистика:</h3>
+  <h3 align="left">Statistik:</h3>
    <div align="center" >
      <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxtish&theme=cobalt" />
      <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxtish&theme=cobalt" />
