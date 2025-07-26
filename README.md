@@ -1,5 +1,5 @@
 <h1 align="center">Hallo, ich heiße Maksim. 🙌</h1>
-<h3 align="center">Ich bin Frontend-Entwickler aus Kertsch.</h3>
+<h3 align="center">Ich bin Frontend-Entwickler aus Bayerisch Gmain.</h3>
 
 🎯 Meine Ziele sind:
 
